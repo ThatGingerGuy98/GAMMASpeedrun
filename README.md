@@ -4,12 +4,13 @@ Tools for Speedrunning S.T.A.L.K.E.R. GAMMA
 ## Installation and Usage
 1. Download [Live Splits](http://livesplit.org/downloads/)
 2. Run Live Splits
-3. Right Click Live Splits -> Open Splits -> From URL... -> [Right Click this link, copy it into the text box](https://raw.githubusercontent.com/NullMoxy/GAMMASpeedrun/main/GAMMASpeedrun.lss)
-4. **IMPORTANT - Right click Live Splits -> Control -> Start TCP Server**
-5. Download The Latest Release of [GAMMASpeedrun](https://github.com/NullMoxy/GAMMASpeedrun/releases/download/Release/GAMMASpeedrun.zip)
-6. Install Via MO2, Make sure it is at the bottom of your MO2 Load order
-7. **BEFORE LAUNCHING GAMMA, Right click the installed mod (GAMMASpeedrun) in MO2, Click Open in Explorer, Navigate to SpeedrunLink\gamedata\scripts, Run main.exe**
-8. Launch GAMMA Through MO2
+3. Download splits from the Splits section of the resources on [Speedrun.com](https://www.speedrun.com/STALKER_GAMMA/resources)
+4. Right Click Live Splits -> Open Splits -> From File... -> Whereever you saved the .lss file.
+5. **IMPORTANT - Right click Live Splits -> Control -> Start TCP Server**
+6. Download The Latest Release of [GAMMASpeedrun](https://github.com/NullMoxy/GAMMASpeedrun/releases/download/Release/GAMMASpeedrun.zip)
+7. Install Via MO2, Make sure it is at the bottom of your MO2 Load order
+8. **BEFORE LAUNCHING GAMMA, Right click the installed mod (GAMMASpeedrun) in MO2, Click Open in Explorer, Navigate to SpeedrunLink\gamedata\scripts, Run main.exe**
+9. Launch GAMMA Through MO2
 
 When the game launches, it should say "---READY---" in the console (open console with `)
 **Do not close main.exe mid-run**
